@@ -15,7 +15,7 @@ section .text
 
         mov CX,8d
         mov BX,8d
-        mov AL,0d
+        mov AX,0d
 
         jmp iterar
 
